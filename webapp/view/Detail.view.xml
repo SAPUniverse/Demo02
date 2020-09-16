@@ -16,7 +16,7 @@
 		</semantic:titleHeading>
 		<semantic:headerContent>
 			<ObjectAttribute title="{i18n>priceTitle}"/>
-
+		<Text text = "Custom Field" ></Text>
 		</semantic:headerContent>
 		<semantic:content>
 			<Table
